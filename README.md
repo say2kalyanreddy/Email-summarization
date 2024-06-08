@@ -47,12 +47,4 @@ json*:{
 Ensure that client_secrets.json is included in your .gitignore file to prevent it from being tracked by Git.
 echo "client_secrets.json" >> .gitignore
 
-Contributing
-Contributions are welcome! Please read the contributing guidelines first.
 
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-Acknowledgements
-spaCy - Industrial-Strength Natural Language Processing in Python
-NLTK - Natural Language Toolkit
