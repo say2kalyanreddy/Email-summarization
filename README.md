@@ -14,7 +14,7 @@ pip
 
 #Setup
 1.Clone the Repository:
-git clone https://github.com/yourusername/email-summarization.git
+git clone https://github.com/say2kalyanreddy/email-summarization.git
 cd email-summarization
 
 2.Install Dependencies:
